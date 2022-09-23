@@ -1,7 +1,7 @@
 Oculus OpenXR Mobile SDK (mirror)
 ===
 
-Version 37.0.0.
+Version 42.0.0.
 
 This is a Git mirror of Oculus' OpenXR Mobile SDK, for use as a submodule in LÖVR.  We only need to
 link against the OpenXR loader library, so this is literally just the 2 `.so` files in the
